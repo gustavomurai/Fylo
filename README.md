@@ -19,7 +19,7 @@ Conversor Universal de Arquivos para Windows
 ## ✨ Recursos
 - Conversão de arquivos
 - União de PDFs
-- Redução de tamanho
+- Redução de tamanho de arquivos
 - Histórico de conversões
 - Interface moderna e leve
 
@@ -28,8 +28,22 @@ Conversor Universal de Arquivos para Windows
 ## 🚀 Instalação
 1. Baixe o instalador.
 2. Execute o arquivo.
-3. Conclua a instalação.
+3. Siga o instalador normalmente.
 4. Abra o Fylo pelo Menu Iniciar.
+
+---
+
+## 📄 Termos de Uso
+Ao instalar e utilizar o Fylo, o usuário concorda que:
+
+- O Fylo é um software proprietário.
+- Não é permitido copiar, modificar, distribuir ou vender o software sem autorização do desenvolvedor.
+- Não é permitido realizar engenharia reversa ou tentar extrair o código-fonte do aplicativo.
+- O software é fornecido "como está", sem garantias de funcionamento para todos os cenários.
+- O desenvolvedor não se responsabiliza por perdas de dados causadas por uso incorreto do programa.
+- O usuário é responsável pelos arquivos convertidos e utilizados dentro do software.
+
+O uso do aplicativo implica na aceitação destes termos.
 
 ---
 
@@ -42,5 +56,4 @@ https://www.linkedin.com/in/gustavomurai/
 🌐 Portfólio  
 https://gustavocmurai.vercel.app/
 
-💻 GitHub  
-https://github.com/gustavomurai
+

@@ -25,4 +25,4 @@ Gustavo Cerqueira Murai
 
 LinkedIn: https://www.linkedin.com/in/gustavomurai/  
 Portfólio: https://gustavocmurai.vercel.app/
-GitHub: https://github.com/gustavomurai
+

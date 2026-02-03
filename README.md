@@ -1,28 +1,46 @@
-# Fylo
+<p align="center">
+  <img src="logo.png" width="140" />
+</p>
 
-Fylo é um aplicativo desktop para conversão e organização de arquivos de forma simples e rápida.
+<h1 align="center">Fylo</h1>
+
+<p align="center">
+Conversor Universal de Arquivos para Windows
+</p>
+
+<p align="center">
+  <a href="https://github.com/gustavomurai/Fylo/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20Baixar%20Fylo-Windows-blue?style=for-the-badge">
+  </a>
+</p>
+
+---
 
 ## ✨ Recursos
 - Conversão de arquivos
 - União de PDFs
-- Redução de tamanho de arquivos
+- Redução de tamanho
 - Histórico de conversões
 - Interface moderna e leve
 
-## 💻 Download
-Baixe a versão mais recente em:
-
-➡ Releases do projeto (lado direito da página)
+---
 
 ## 🚀 Instalação
 1. Baixe o instalador.
 2. Execute o arquivo.
 3. Conclua a instalação.
-4. Abra o Fylo pelo menu iniciar.
+4. Abra o Fylo pelo Menu Iniciar.
+
+---
 
 ## 👨‍💻 Desenvolvido por
-Gustavo Cerqueira Murai
+**Gustavo Cerqueira Murai**
 
-LinkedIn: https://www.linkedin.com/in/gustavomurai/  
-Portfólio: https://gustavocmurai.vercel.app/
+🔗 LinkedIn  
+https://www.linkedin.com/in/gustavomurai/
 
+🌐 Portfólio  
+https://gustavocmurai.vercel.app/
+
+💻 GitHub  
+https://github.com/gustavomurai
